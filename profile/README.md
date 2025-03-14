@@ -1,5 +1,5 @@
-# Bem-vindo(a) ao eFront 💜
+# Bem-vindo(a) ao FrontCode 💜
 
-O [eFront](https://iuricode.com/efront) é uma organização que armazena o código das aplicações do eFront! 👨🏻‍💻
+O [FrontCode](https://iuricode.com/frontcode) é uma organização que armazena o código das aplicações do curso FrontCode! 👨🏻‍💻
 
-Para fazer parte da nossa comunidade, basta comprar o ebook em nossa [página de venda](https://iuricode.com/efront) e enviar seu username em nosso canal do Discord!
+Para fazer parte da nossa comunidade, basta comprar o curso em nossa [página de venda](https://iuricode.com/frontcode) e solicitar o acesso no meu Instagram.
